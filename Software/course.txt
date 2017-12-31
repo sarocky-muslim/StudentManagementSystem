@@ -1,0 +1,27 @@
+CSE 1 CSE 102, Computer and Programming Concepts, 1.50 Lab
+CSE 1 MAT 101, Diffrential and Integral Calculas, 3.00 Theory
+CSE 1 ENG 101, English Language |, 3.00 Theory
+CSE 2 CSE 112, Structure Programming Language, 1.50 Lab
+CSE 2 MAT 111, Co Ordinate Geometry and Vector Calculas, 3.00 Theory
+CSE 2 ENG 111, English Language ||, 3.00 Theory
+CSE 3 CSE 122, Object Oriented Programming Language, 1.50 Lab
+CSE 3 MAT 121, Linear Algebras and Differential Equations, 3.00 Theory
+CSE 3 EEE 101, Electronics Technology, 3.00 Theory
+EEE 1 CSE 102, Electrical Circuit |, 1.50 LAb
+EEE 1 ENG 101, English Language |, 3.00 Theory
+EEE 1 MAT 101, Differential and Integral Calculas, 3.00 Theory
+EEE 2 EEE 104, Electrical Circuits ||, 1.50 Lab
+EEE 2 ENG 102, English Language ||, 3.00 Theory
+EEE 2 MAT 102, Co Ordinate Geometry and Linear Algebra, 3.00 Theory
+EEE 3 EEE 306, Power System |, 1.50 Lab
+EEE 3 MAT 103, Ordinary and Partial Differential Equations, 3.00 Theory
+EEE 3 CSE 201, Structured Programming Language, 3.00 Theory
+CSIT 1 CSIT 102, Computer and Programming Concepts, 1.50 Lab
+CSIT 1 MAT 101, Differential and Integral Calculas, 3.00 Theory
+CSIT 1 ENG 101, English Language |, 3.00 Theory
+CSIT 2 CSIT 112, Structured Programmig Language, 1.50 Lab
+CSIT 2 ENG 111, English Language ||, 3.00 Theory
+CSIT 2 MAT 111, Co Ordinate Geometry and vector Calculas, 3.00 Theory
+CSIT 3 CSIT 122, Object Oriented Programming Language, 1.50 Lab
+CSIT 3 MAT 121, Linear Algebras and Differential Equations, 3.00 Theory
+CSIT 3 CSIT 100, Software Development Project |, 0.75 Lab
